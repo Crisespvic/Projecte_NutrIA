@@ -1,0 +1,30 @@
+# Python (fitxers compilats)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entorns virtuals (NO els pugis mai, cadascú es crea el seu)
+venv/
+.venv/
+env/
+ENV/
+
+# Sistema operatiu
+.DS_Store
+Thumbs.db
+
+# Binaris de Tailwind o Node
+node_modules/
+nutrition_api/tailwindcss
+dist/
+.tailwindcss
+
+# Variables d'entorn (Seguretat!)
+.env
+instance/
+.pytest_cache/
+
+# Bases de dades locals
+*.db
+*.sqlite
