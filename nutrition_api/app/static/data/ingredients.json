@@ -1,0 +1,1302 @@
+{
+  "foods": [
+    {
+      "dish": "apple_pie",
+      "ingredients": [
+        { "name": "WHEAT FLOUR", "grams": 87.5 },
+        { "name": "BUTTER", "grams": 56.25 },
+        { "name": "WATER", "grams": 15.0 },
+        { "name": "apples", "grams": 250.0 },
+        { "name": "sugar", "grams": 37.5 },
+        { "name": "cinnamon", "grams": 2.5 },
+        { "name": "nutmeg", "grams": 0.5 },
+        { "name": "lemon juice", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "baby_back_ribs",
+      "ingredients": [
+        { "name": "pork baby back ribs", "grams": 375.0 },
+        { "name": "black pepper", "grams": 2.5 },
+        { "name": "paprika", "grams": 5.0 },
+        { "name": "brown sugar", "grams": 12.5 },
+        { "name": "garlic powder", "grams": 2.5 },
+        { "name": "onion powder", "grams": 2.5 },
+        { "name": "mustard", "grams": 7.5 },
+        { "name": "barbecue sauce", "grams": 62.5 },
+        { "name": "apple cider vinegar", "grams": 12.5 }
+      ]
+    },
+    {
+      "dish": "baklava",
+      "ingredients": [
+        { "name": "phyllo dough", "grams": 112.5 },
+        { "name": "clarified BUTTER", "grams": 62.5 },
+        { "name": "pistachios", "grams": 75.0 },
+        { "name": "sugar", "grams": 100.0 },
+        { "name": "WATER", "grams": 60.0 },
+        { "name": "lemon juice", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "beef_carpaccio",
+      "ingredients": [
+        { "name": "beef tenderloin", "grams": 100.0 },
+        { "name": "olive oil", "grams": 10.0 },
+        { "name": "lemon juice", "grams": 5.0 },
+        { "name": "parmesan cheese", "grams": 12.5 },
+        { "name": "arugula", "grams": 25.0 },
+        { "name": "capers", "grams": 5.0 },
+        { "name": "black pepper", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "beef_tartare",
+      "ingredients": [
+        { "name": "beef tenderloin", "grams": 125.0 },
+        { "name": "egg yolk", "grams": 10.0 },
+        { "name": "shallots", "grams": 7.5 },
+        { "name": "capers", "grams": 5.0 },
+        { "name": "cornichons", "grams": 7.5 },
+        { "name": "Worcestershire sauce", "grams": 3.75 },
+        { "name": "Dijon mustard", "grams": 3.75 },
+        { "name": "olive oil", "grams": 5.0 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "parsley", "grams": 2.5 },
+        { "name": "lemon juice", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "beet_salad",
+      "ingredients": [
+        { "name": "beets", "grams": 150.0 },
+        { "name": "goat cheese", "grams": 37.5 },
+        { "name": "walnuts", "grams": 15.0 },
+        { "name": "arugula or mixed greens", "grams": 37.5 },
+        { "name": "olive oil", "grams": 11.25 },
+        { "name": "balsamic vinegar", "grams": 7.5 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "beignets",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 125.0 },
+        { "name": "granulated sugar", "grams": 12.5 },
+        { "name": "active dry yeast", "grams": 1.75 },
+        { "name": "warm WATER", "grams": 30.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "milk", "grams": 45.0 },
+        { "name": "unsalted BUTTER", "grams": 15.0 },
+        { "name": "vegetable oil", "grams": 250.0 },
+        { "name": "powdered sugar", "grams": 25.0 }
+      ]
+    },
+    {
+      "dish": "bibimbap",
+      "ingredients": [
+        { "name": "rice", "grams": 100.0 },
+        { "name": "beef", "grams": 75.0 },
+        { "name": "spinach", "grams": 50.0 },
+        { "name": "bean sprouts", "grams": 37.5 },
+        { "name": "carrot", "grams": 25.0 },
+        { "name": "zucchini", "grams": 37.5 },
+        { "name": "shiitake mushrooms", "grams": 25.0 },
+        { "name": "egg", "grams": 50.0 },
+        { "name": "sesame oil", "grams": 7.5 },
+        { "name": "soy sauce", "grams": 11.25 },
+        { "name": "gochujang", "grams": 15.0 },
+        { "name": "garlic", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "bread_pudding",
+      "ingredients": [
+        { "name": "bread", "grams": 100.0 },
+        { "name": "milk", "grams": 125.0 },
+        { "name": "eggs", "grams": 37.5 },
+        { "name": "sugar", "grams": 37.5 },
+        { "name": "BUTTER", "grams": 15.0 },
+        { "name": "vanilla extract", "grams": 2.5 },
+        { "name": "cinnamon", "grams": 1.25 },
+        { "name": "nutmeg", "grams": 0.5 },
+        { "name": "raisins", "grams": 20.0 }
+      ]
+    },
+    {
+      "dish": "breakfast_burrito",
+      "ingredients": [
+        { "name": "flour tortilla", "grams": 62.5 },
+        { "name": "eggs", "grams": 62.5 },
+        { "name": "cheddar cheese", "grams": 25.0 },
+        { "name": "bacon or sausage", "grams": 50.0 },
+        { "name": "potatoes", "grams": 75.0 },
+        { "name": "bell peppers", "grams": 25.0 },
+        { "name": "onions", "grams": 20.0 },
+        { "name": "salsa", "grams": 30.0 },
+        { "name": "sour cream", "grams": 20.0 },
+        { "name": "avocado", "grams": 37.5 }
+      ]
+    },
+    {
+      "dish": "bruschetta",
+      "ingredients": [
+        { "name": "baguette or Italian bread", "grams": 75.0 },
+        { "name": "tomatoes", "grams": 100.0 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "basil", "grams": 3.75 },
+        { "name": "olive oil", "grams": 12.5 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "caesar_salad",
+      "ingredients": [
+        { "name": "romaine lettuce", "grams": 100.0 },
+        { "name": "parmesan cheese", "grams": 15.0 },
+        { "name": "croutons", "grams": 25.0 },
+        { "name": "olive oil", "grams": 15.0 },
+        { "name": "lemon juice", "grams": 7.5 },
+        { "name": "egg", "grams": 12.5 },
+        { "name": "Worcestershire sauce", "grams": 2.5 },
+        { "name": "garlic", "grams": 1.25 },
+        { "name": "Dijon mustard", "grams": 2.5 },
+        { "name": "black pepper", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "cannoli",
+      "ingredients": [
+        { "name": "cannoli shells", "grams": 50.0 },
+        { "name": "ricotta cheese", "grams": 125.0 },
+        { "name": "powdered sugar", "grams": 37.5 },
+        { "name": "vanilla extract", "grams": 1.25 },
+        { "name": "chocolate chips", "grams": 20.0 },
+        { "name": "candied orange peel", "grams": 10.0 },
+        { "name": "cinnamon", "grams": 0.5 }
+      ]
+    },
+    {
+      "dish": "caprese_salad",
+      "ingredients": [
+        { "name": "tomatoes", "grams": 125.0 },
+        { "name": "mozzarella cheese", "grams": 62.5 },
+        { "name": "fresh basil", "grams": 5.0 },
+        { "name": "olive oil", "grams": 10.0 },
+        { "name": "balsamic vinegar", "grams": 5.0 },
+        { "name": "black pepper", "grams": 0.5 }
+      ]
+    },
+    {
+      "dish": "carrot_cake",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "sugar", "grams": 75.0 },
+        { "name": "eggs", "grams": 50.0 },
+        { "name": "vegetable oil", "grams": 60.0 },
+        { "name": "grated carrots", "grams": 75.0 },
+        { "name": "baking powder", "grams": 2.5 },
+        { "name": "baking soda", "grams": 1.25 },
+        { "name": "cinnamon", "grams": 2.0 },
+        { "name": "nutmeg", "grams": 0.5 },
+        { "name": "vanilla extract", "grams": 2.5 },
+        { "name": "walnuts or pecans", "grams": 25.0 },
+        { "name": "cream cheese", "grams": 112.5 },
+        { "name": "BUTTER", "grams": 28.75 },
+        { "name": "powdered sugar", "grams": 50.0 }
+      ]
+    },
+    {
+      "dish": "ceviche",
+      "ingredients": [
+        { "name": "raw fish", "grams": 125.0 },
+        { "name": "lime juice", "grams": 37.5 },
+        { "name": "lemon juice", "grams": 12.5 },
+        { "name": "red onion", "grams": 20.0 },
+        { "name": "cilantro", "grams": 5.0 },
+        { "name": "chili peppers", "grams": 2.5 },
+        { "name": "black pepper", "grams": 0.5 },
+        { "name": "corn", "grams": 25.0 },
+        { "name": "sweet potato", "grams": 50.0 }
+      ]
+    },
+    {
+      "dish": "cheese_plate",
+      "ingredients": [
+        { "name": "assorted cheeses", "grams": 100.0 },
+        { "name": "crackers or bread", "grams": 50.0 },
+        { "name": "grapes", "grams": 37.5 },
+        { "name": "nuts", "grams": 20.0 },
+        { "name": "honey", "grams": 15.0 },
+        { "name": "dried fruits", "grams": 25.0 }
+      ]
+    },
+    {
+      "dish": "cheesecake",
+      "ingredients": [
+        { "name": "cream cheese", "grams": 225.0 },
+        { "name": "sugar", "grams": 50.0 },
+        { "name": "eggs", "grams": 50.0 },
+        { "name": "vanilla extract", "grams": 2.5 },
+        { "name": "graham cracker crust", "grams": 50.0 },
+        { "name": "BUTTER", "grams": 20.0 },
+        { "name": "sour cream", "grams": 60.0 }
+      ]
+    },
+    {
+      "dish": "chicken_curry",
+      "ingredients": [
+        { "name": "chicken", "grams": 200.0 },
+        { "name": "onions", "grams": 50.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "ginger", "grams": 3.75 },
+        { "name": "tomatoes", "grams": 100.0 },
+        { "name": "coconut milk", "grams": 100.0 },
+        { "name": "curry powder", "grams": 5.0 },
+        { "name": "turmeric", "grams": 1.25 },
+        { "name": "cumin", "grams": 1.25 },
+        { "name": "coriander", "grams": 1.25 },
+        { "name": "chili powder", "grams": 1.25 },
+        { "name": "vegetable oil", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "chicken_quesadilla",
+      "ingredients": [
+        { "name": "flour tortillas", "grams": 75.0 },
+        { "name": "chicken", "grams": 100.0 },
+        { "name": "cheddar cheese", "grams": 37.5 },
+        { "name": "monterey jack cheese", "grams": 37.5 },
+        { "name": "bell peppers", "grams": 37.5 },
+        { "name": "onions", "grams": 25.0 },
+        { "name": "olive oil", "grams": 5.0 },
+        { "name": "sour cream", "grams": 25.0 },
+        { "name": "salsa", "grams": 37.5 }
+      ]
+    },
+    {
+      "dish": "chicken_wings",
+      "ingredients": [
+        { "name": "chicken wings", "grams": 250.0 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "garlic powder", "grams": 2.5 },
+        { "name": "paprika", "grams": 2.5 },
+        { "name": "vegetable oil", "grams": 7.5 },
+        { "name": "hot sauce", "grams": 30.0 },
+        { "name": "BUTTER", "grams": 15.0 }
+      ]
+    },
+    {
+      "dish": "chocolate_cake",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "cocoa powder", "grams": 18.75 },
+        { "name": "sugar", "grams": 100.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "BUTTER", "grams": 28.75 },
+        { "name": "baking powder", "grams": 2.5 },
+        { "name": "baking soda", "grams": 2.5 },
+        { "name": "vanilla extract", "grams": 2.5 },
+        { "name": "milk", "grams": 60.0 }
+      ]
+    },
+    {
+      "dish": "chocolate_mousse",
+      "ingredients": [
+        { "name": "dark chocolate", "grams": 50.0 },
+        { "name": "eggs", "grams": 37.5 },
+        { "name": "sugar", "grams": 12.5 },
+        { "name": "heavy cream", "grams": 62.5 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "churros",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "WATER", "grams": 62.5 },
+        { "name": "unsalted BUTTER", "grams": 12.5 },
+        { "name": "sugar", "grams": 25.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "vegetable oil", "grams": 250.0 },
+        { "name": "cinnamon", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "clam_chowder",
+      "ingredients": [
+        { "name": "clams", "grams": 125.0 },
+        { "name": "bacon", "grams": 25.0 },
+        { "name": "onions", "grams": 37.5 },
+        { "name": "celery", "grams": 25.0 },
+        { "name": "potatoes", "grams": 100.0 },
+        { "name": "flour", "grams": 10.0 },
+        { "name": "BUTTER", "grams": 12.5 },
+        { "name": "milk", "grams": 125.0 },
+        { "name": "heavy cream", "grams": 62.5 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "thyme", "grams": 0.5 },
+        { "name": "bay leaf", "grams": 0.25 }
+      ]
+    },
+    {
+      "dish": "club_sandwich",
+      "ingredients": [
+        { "name": "bread", "grams": 120.0 },
+        { "name": "turkey", "grams": 100.0 },
+        { "name": "bacon", "grams": 40.0 },
+        { "name": "lettuce", "grams": 30.0 },
+        { "name": "tomato", "grams": 50.0 },
+        { "name": "mayonnaise", "grams": 30.0 },
+        { "name": "cheddar cheese", "grams": 30.0 }
+      ]
+    },
+    {
+      "dish": "crab_cakes",
+      "ingredients": [
+        { "name": "crab meat", "grams": 125.0 },
+        { "name": "bread crumbs", "grams": 25.0 },
+        { "name": "mayonnaise", "grams": 15.0 },
+        { "name": "egg", "grams": 12.5 },
+        { "name": "Dijon mustard", "grams": 3.75 },
+        { "name": "Worcestershire sauce", "grams": 2.5 },
+        { "name": "Old Bay seasoning", "grams": 2.5 },
+        { "name": "lemon juice", "grams": 3.75 },
+        { "name": "parsley", "grams": 2.5 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "vegetable oil", "grams": 12.5 }
+      ]
+    },
+    {
+      "dish": "creme_brulee",
+      "ingredients": [
+        { "name": "heavy cream", "grams": 125.0 },
+        { "name": "egg yolks", "grams": 30.0 },
+        { "name": "sugar", "grams": 25.0 },
+        { "name": "vanilla extract", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "croque_madame",
+      "ingredients": [
+        { "name": "bread", "grams": 100.0 },
+        { "name": "ham", "grams": 60.0 },
+        { "name": "gruyere cheese", "grams": 80.0 },
+        { "name": "BUTTER", "grams": 40.0 },
+        { "name": "flour", "grams": 20.0 },
+        { "name": "milk", "grams": 200.0 },
+        { "name": "nutmeg", "grams": 1.0 },
+        { "name": "egg", "grams": 50.0 },
+        { "name": "black pepper", "grams": 2.0 }
+      ]
+    },
+    {
+      "dish": "cup_cakes",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 50.0 },
+        { "name": "sugar", "grams": 50.0 },
+        { "name": "BUTTER", "grams": 28.75 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "milk", "grams": 30.0 },
+        { "name": "baking powder", "grams": 1.75 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "deviled_eggs",
+      "ingredients": [
+        { "name": "eggs", "grams": 75.0 },
+        { "name": "mayonnaise", "grams": 15.0 },
+        { "name": "mustard", "grams": 2.5 },
+        { "name": "vinegar", "grams": 1.25 },
+        { "name": "black pepper", "grams": 0.5 },
+        { "name": "paprika", "grams": 0.5 }
+      ]
+    },
+    {
+      "dish": "donuts",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 100.0 },
+        { "name": "sugar", "grams": 25.0 },
+        { "name": "baking powder", "grams": 2.5 },
+        { "name": "milk", "grams": 60.0 },
+        { "name": "eggs", "grams": 12.5 },
+        { "name": "BUTTER", "grams": 15.0 },
+        { "name": "vegetable oil", "grams": 250.0 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "dumplings",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 75.0 },
+        { "name": "WATER", "grams": 37.5 },
+        { "name": "ground pork or chicken", "grams": 75.0 },
+        { "name": "cabbage", "grams": 37.5 },
+        { "name": "green onions", "grams": 7.5 },
+        { "name": "ginger", "grams": 2.5 },
+        { "name": "soy sauce", "grams": 3.75 },
+        { "name": "sesame oil", "grams": 2.5 },
+        { "name": "garlic", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "edamame",
+      "ingredients": [
+        { "name": "edamame pods", "grams": 100.0 },
+        { "name": "WATER", "grams": 250.0 }
+      ]
+    },
+    {
+      "dish": "eggs_benedict",
+      "ingredients": [
+        { "name": "english muffins", "grams": 37.5 },
+        { "name": "eggs", "grams": 50.0 },
+        { "name": "canadian bacon", "grams": 25.0 },
+        { "name": "BUTTER", "grams": 37.5 },
+        { "name": "lemon juice", "grams": 3.75 },
+        { "name": "egg yolks", "grams": 15.0 },
+        { "name": "black pepper", "grams": 0.5 },
+        { "name": "cayenne pepper", "grams": 0.25 }
+      ]
+    },
+    {
+      "dish": "escargots",
+      "ingredients": [
+        { "name": "escargots (snails)", "grams": 50.0 },
+        { "name": "BUTTER", "grams": 25.0 },
+        { "name": "garlic", "grams": 5.0 },
+        { "name": "parsley", "grams": 3.75 },
+        { "name": "shallots", "grams": 7.5 },
+        { "name": "white wine", "grams": 7.5 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "falafel",
+      "ingredients": [
+        { "name": "chickpeas", "grams": 125.0 },
+        { "name": "onions", "grams": 25.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "parsley", "grams": 7.5 },
+        { "name": "cilantro", "grams": 7.5 },
+        { "name": "cumin", "grams": 2.5 },
+        { "name": "coriander", "grams": 2.5 },
+        { "name": "baking powder", "grams": 1.25 },
+        { "name": "flour", "grams": 7.5 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "vegetable oil", "grams": 125.0 }
+      ]
+    },
+    {
+      "dish": "filet_mignon",
+      "ingredients": [
+        { "name": "beef filet", "grams": 150.0 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "BUTTER", "grams": 7.5 },
+        { "name": "olive oil", "grams": 3.75 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "fresh thyme", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "fish_and_chips",
+      "ingredients": [
+        { "name": "white fish fillets", "grams": 150.0 },
+        { "name": "potatoes", "grams": 200.0 },
+        { "name": "all-purpose flour", "grams": 50.0 },
+        { "name": "baking powder", "grams": 1.25 },
+        { "name": "beer or sparkling WATER", "grams": 62.5 },
+        { "name": "eggs", "grams": 12.5 },
+        { "name": "vegetable oil", "grams": 250.0 }
+      ]
+    },
+    {
+      "dish": "foie_gras",
+      "ingredients": [
+        { "name": "duck or goose liver", "grams": 100.0 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "sugar", "grams": 1.25 },
+        { "name": "brandy or cognac", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "french_fries",
+      "ingredients": [
+        { "name": "potatoes", "grams": 200.0 },
+        { "name": "vegetable oil", "grams": 250.0 }
+      ]
+    },
+    {
+      "dish": "french_onion_soup",
+      "ingredients": [
+        { "name": "onions", "grams": 250.0 },
+        { "name": "beef broth", "grams": 250.0 },
+        { "name": "BUTTER", "grams": 12.5 },
+        { "name": "olive oil", "grams": 3.75 },
+        { "name": "flour", "grams": 7.5 },
+        { "name": "white wine", "grams": 30.0 },
+        { "name": "baguette", "grams": 50.0 },
+        { "name": "gruyere cheese", "grams": 37.5 },
+        { "name": "thyme", "grams": 0.75 },
+        { "name": "bay leaf", "grams": 0.25 },
+        { "name": "black pepper", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "french_toast",
+      "ingredients": [
+        { "name": "bread", "grams": 75.0 },
+        { "name": "eggs", "grams": 37.5 },
+        { "name": "milk", "grams": 60.0 },
+        { "name": "sugar", "grams": 7.5 },
+        { "name": "vanilla extract", "grams": 1.25 },
+        { "name": "cinnamon", "grams": 1.25 },
+        { "name": "BUTTER", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "fried_calamari",
+      "ingredients": [
+        { "name": "calamari", "grams": 125.0 },
+        { "name": "all-purpose flour", "grams": 37.5 },
+        { "name": "cornstarch", "grams": 12.5 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "paprika", "grams": 1.25 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "milk", "grams": 30.0 },
+        { "name": "vegetable oil", "grams": 250.0 },
+        { "name": "lemon wedges", "grams": 25.0 }
+      ]
+    },
+    {
+      "dish": "fried_rice",
+      "ingredients": [
+        { "name": "cooked rice", "grams": 150.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "green onions", "grams": 10.0 },
+        { "name": "carrots", "grams": 20.0 },
+        { "name": "peas", "grams": 15.0 },
+        { "name": "soy sauce", "grams": 11.25 },
+        { "name": "sesame oil", "grams": 3.75 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "vegetable oil", "grams": 7.5 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "frozen_yogurt",
+      "ingredients": [
+        { "name": "yogurt", "grams": 125.0 },
+        { "name": "sugar", "grams": 25.0 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "garlic_bread",
+      "ingredients": [
+        { "name": "bread", "grams": 100.0 },
+        { "name": "BUTTER", "grams": 25.0 },
+        { "name": "garlic", "grams": 5.0 },
+        { "name": "parsley", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "gnocchi",
+      "ingredients": [
+        { "name": "potatoes", "grams": 250.0 },
+        { "name": "all-purpose flour", "grams": 75.0 },
+        { "name": "egg", "grams": 12.5 }
+      ]
+    },
+    {
+      "dish": "greek_salad",
+      "ingredients": [
+        { "name": "tomatoes", "grams": 125.0 },
+        { "name": "cucumber", "grams": 75.0 },
+        { "name": "red onion", "grams": 20.0 },
+        { "name": "green bell pepper", "grams": 37.5 },
+        { "name": "kalamata olives", "grams": 25.0 },
+        { "name": "feta cheese", "grams": 50.0 },
+        { "name": "olive oil", "grams": 15.0 },
+        { "name": "red wine vinegar", "grams": 7.5 },
+        { "name": "oregano", "grams": 1.25 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "grilled_cheese_sandwich",
+      "ingredients": [
+        { "name": "bread", "grams": 80.0 },
+        { "name": "cheddar cheese", "grams": 60.0 },
+        { "name": "BUTTER", "grams": 20.0 }
+      ]
+    },
+    {
+      "dish": "grilled_salmon",
+      "ingredients": [
+        { "name": "salmon fillets", "grams": 200.0 },
+        { "name": "olive oil", "grams": 7.5 },
+        { "name": "lemon juice", "grams": 7.5 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "fresh dill", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "guacamole",
+      "ingredients": [
+        { "name": "avocados", "grams": 150.0 },
+        { "name": "lime juice", "grams": 7.5 },
+        { "name": "red onion", "grams": 15.0 },
+        { "name": "tomatoes", "grams": 25.0 },
+        { "name": "cilantro", "grams": 3.75 },
+        { "name": "jalapeno", "grams": 2.5 },
+        { "name": "black pepper", "grams": 0.5 }
+      ]
+    },
+    {
+      "dish": "gyoza",
+      "ingredients": [
+        { "name": "gyoza wrappers", "grams": 50.0 },
+        { "name": "ground pork", "grams": 75.0 },
+        { "name": "cabbage", "grams": 37.5 },
+        { "name": "green onions", "grams": 7.5 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "ginger", "grams": 2.5 },
+        { "name": "soy sauce", "grams": 3.75 },
+        { "name": "sesame oil", "grams": 2.5 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "vegetable oil", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "hamburger",
+      "ingredients": [
+        { "name": "ground beef", "grams": 150.0 },
+        { "name": "burger buns", "grams": 80.0 },
+        { "name": "lettuce", "grams": 25.0 },
+        { "name": "tomato", "grams": 37.5 },
+        { "name": "onion", "grams": 20.0 },
+        { "name": "pickles", "grams": 15.0 },
+        { "name": "cheddar cheese", "grams": 25.0 },
+        { "name": "ketchup", "grams": 15.0 },
+        { "name": "mustard", "grams": 7.5 },
+        { "name": "mayonnaise", "grams": 15.0 },
+        { "name": "black pepper", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "hot_and_sour_soup",
+      "ingredients": [
+        { "name": "chicken or vegetable broth", "grams": 250.0 },
+        { "name": "tofu", "grams": 62.5 },
+        { "name": "mushrooms", "grams": 37.5 },
+        { "name": "bamboo shoots", "grams": 25.0 },
+        { "name": "egg", "grams": 12.5 },
+        { "name": "soy sauce", "grams": 11.25 },
+        { "name": "rice vinegar", "grams": 15.0 },
+        { "name": "chili paste", "grams": 3.75 },
+        { "name": "cornstarch", "grams": 7.5 },
+        { "name": "white pepper", "grams": 1.25 },
+        { "name": "sesame oil", "grams": 2.5 },
+        { "name": "green onions", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "hot_dog",
+      "ingredients": [
+        { "name": "hot dog sausage", "grams": 100.0 },
+        { "name": "hot dog bun", "grams": 60.0 },
+        { "name": "ketchup", "grams": 15.0 },
+        { "name": "mustard", "grams": 10.0 },
+        { "name": "onions", "grams": 20.0 },
+        { "name": "relish", "grams": 15.0 },
+        { "name": "pickles", "grams": 20.0 }
+      ]
+    },
+    {
+      "dish": "huevos_rancheros",
+      "ingredients": [
+        { "name": "corn tortillas", "grams": 50.0 },
+        { "name": "eggs", "grams": 50.0 },
+        { "name": "black beans", "grams": 100.0 },
+        { "name": "salsa", "grams": 50.0 },
+        { "name": "avocado", "grams": 37.5 },
+        { "name": "cheddar cheese", "grams": 20.0 },
+        { "name": "onions", "grams": 15.0 },
+        { "name": "cilantro", "grams": 2.5 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "vegetable oil", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "hummus",
+      "ingredients": [
+        { "name": "chickpeas", "grams": 125.0 },
+        { "name": "tahini", "grams": 30.0 },
+        { "name": "lemon juice", "grams": 15.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "olive oil", "grams": 15.0 },
+        { "name": "WATER", "grams": 12.5 },
+        { "name": "cumin", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "ice_cream",
+      "ingredients": [
+        { "name": "milk", "grams": 60.0 },
+        { "name": "heavy cream", "grams": 120.0 },
+        { "name": "sugar", "grams": 37.5 },
+        { "name": "egg yolks", "grams": 25.0 },
+        { "name": "vanilla extract", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "lasagna",
+      "ingredients": [
+        { "name": "lasagna noodles", "grams": 87.5 },
+        { "name": "ground beef", "grams": 125.0 },
+        { "name": "tomato sauce", "grams": 200.0 },
+        { "name": "ricotta cheese", "grams": 112.5 },
+        { "name": "mozzarella cheese", "grams": 75.0 },
+        { "name": "parmesan cheese", "grams": 25.0 },
+        { "name": "onion", "grams": 25.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "olive oil", "grams": 7.5 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "basil", "grams": 1.25 },
+        { "name": "oregano", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "lobster_bisque",
+      "ingredients": [
+        { "name": "lobster", "grams": 200.0 },
+        { "name": "BUTTER", "grams": 15.0 },
+        { "name": "onions", "grams": 25.0 },
+        { "name": "carrots", "grams": 20.0 },
+        { "name": "celery", "grams": 20.0 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "tomato paste", "grams": 7.5 },
+        { "name": "flour", "grams": 10.0 },
+        { "name": "heavy cream", "grams": 62.5 },
+        { "name": "white wine", "grams": 30.0 },
+        { "name": "fish stock", "grams": 200.0 },
+        { "name": "thyme", "grams": 0.5 },
+        { "name": "bay leaf", "grams": 0.25 },
+        { "name": "black pepper", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "lobster_roll_sandwich",
+      "ingredients": [
+        { "name": "lobster meat", "grams": 400.0 },
+        { "name": "hot dog buns", "grams": 120.0 },
+        { "name": "mayonnaise", "grams": 60.0 },
+        { "name": "lemon juice", "grams": 15.0 },
+        { "name": "celery", "grams": 40.0 },
+        { "name": "BUTTER", "grams": 40.0 },
+        { "name": "black pepper", "grams": 2.0 },
+        { "name": "lettuce", "grams": 30.0 }
+      ]
+    },
+    {
+      "dish": "macaroni_and_cheese",
+      "ingredients": [
+        { "name": "macaroni pasta", "grams": 112.5 },
+        { "name": "cheddar cheese", "grams": 100.0 },
+        { "name": "milk", "grams": 150.0 },
+        { "name": "BUTTER", "grams": 15.0 },
+        { "name": "all-purpose flour", "grams": 12.5 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "mustard powder", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "macarons",
+      "ingredients": [
+        { "name": "almond flour", "grams": 31.25 },
+        { "name": "powdered sugar", "grams": 50.0 },
+        { "name": "egg whites", "grams": 25.0 },
+        { "name": "granulated sugar", "grams": 12.5 },
+        { "name": "cream of tartar", "grams": 0.25 },
+        { "name": "food coloring", "grams": 0.25 },
+        { "name": "BUTTER", "grams": 37.5 },
+        { "name": "confectioners' sugar", "grams": 62.5 },
+        { "name": "flavoring", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "miso_soup",
+      "ingredients": [
+        { "name": "dashi stock", "grams": 200.0 },
+        { "name": "miso paste", "grams": 15.0 },
+        { "name": "tofu", "grams": 37.5 },
+        { "name": "wakame seaweed", "grams": 2.5 },
+        { "name": "green onions", "grams": 5.0 }
+      ]
+    },
+    {
+      "dish": "mussels",
+      "ingredients": [
+        { "name": "mussels", "grams": 250.0 },
+        { "name": "white wine", "grams": 60.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "shallots", "grams": 10.0 },
+        { "name": "BUTTER", "grams": 12.5 },
+        { "name": "olive oil", "grams": 3.75 },
+        { "name": "parsley", "grams": 5.0 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "lemon juice", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "nachos",
+      "ingredients": [
+        { "name": "tortilla chips", "grams": 75.0 },
+        { "name": "cheddar cheese", "grams": 50.0 },
+        { "name": "jalapenos", "grams": 7.5 },
+        { "name": "sour cream", "grams": 25.0 },
+        { "name": "guacamole", "grams": 37.5 },
+        { "name": "salsa", "grams": 37.5 },
+        { "name": "black beans", "grams": 50.0 },
+        { "name": "ground beef", "grams": 62.5 },
+        { "name": "chicken", "grams": 62.5 }
+      ]
+    },
+    {
+      "dish": "omelette",
+      "ingredients": [
+        { "name": "eggs", "grams": 150.0 },
+        { "name": "milk", "grams": 30.0 },
+        { "name": "black pepper", "grams": 1.0 },
+        { "name": "BUTTER", "grams": 15.0 }
+      ]
+    },
+    {
+      "dish": "onion_rings",
+      "ingredients": [
+        { "name": "onions", "grams": 125.0 },
+        { "name": "all-purpose flour", "grams": 37.5 },
+        { "name": "cornstarch", "grams": 12.5 },
+        { "name": "baking powder", "grams": 1.25 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "milk", "grams": 60.0 },
+        { "name": "vegetable oil", "grams": 250.0 }
+      ]
+    },
+    {
+      "dish": "oysters",
+      "ingredients": [
+        { "name": "fresh oysters", "grams": 150.0 },
+        { "name": "lemon wedges", "grams": 25.0 },
+        { "name": "mignonette sauce", "grams": 15.0 }
+      ]
+    },
+    {
+      "dish": "pad_thai",
+      "ingredients": [
+        { "name": "rice noodles", "grams": 62.5 },
+        { "name": "shrimp or chicken", "grams": 75.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "bean sprouts", "grams": 37.5 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "green onions", "grams": 10.0 },
+        { "name": "peanuts", "grams": 12.5 },
+        { "name": "tamarind paste", "grams": 15.0 },
+        { "name": "fish sauce", "grams": 11.25 },
+        { "name": "sugar", "grams": 11.25 },
+        { "name": "lime", "grams": 15.0 },
+        { "name": "vegetable oil", "grams": 11.25 }
+      ]
+    },
+    {
+      "dish": "paella",
+      "ingredients": [
+        { "name": "rice", "grams": 100.0 },
+        { "name": "saffron", "grams": 0.25 },
+        { "name": "chicken", "grams": 100.0 },
+        { "name": "rabbit", "grams": 75.0 },
+        { "name": "shrimp", "grams": 50.0 },
+        { "name": "mussels", "grams": 50.0 },
+        { "name": "clams", "grams": 50.0 },
+        { "name": "green beans", "grams": 37.5 },
+        { "name": "bell peppers", "grams": 37.5 },
+        { "name": "tomatoes", "grams": 50.0 },
+        { "name": "garlic", "grams": 5.0 },
+        { "name": "olive oil", "grams": 15.0 },
+        { "name": "paprika", "grams": 2.5 },
+        { "name": "lemon wedges", "grams": 25.0 }
+      ]
+    },
+    {
+      "dish": "pancakes",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "baking powder", "grams": 2.5 },
+        { "name": "sugar", "grams": 7.5 },
+        { "name": "milk", "grams": 75.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "BUTTER", "grams": 12.5 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "panna_cotta",
+      "ingredients": [
+        { "name": "heavy cream", "grams": 125.0 },
+        { "name": "sugar", "grams": 25.0 },
+        { "name": "vanilla extract", "grams": 1.25 },
+        { "name": "gelatin", "grams": 2.5 },
+        { "name": "milk", "grams": 30.0 }
+      ]
+    },
+    {
+      "dish": "peking_duck",
+      "ingredients": [
+        { "name": "duck", "grams": 500.0 },
+        { "name": "hoisin sauce", "grams": 25.0 },
+        { "name": "soy sauce", "grams": 15.0 },
+        { "name": "honey", "grams": 15.0 },
+        { "name": "five-spice powder", "grams": 1.25 },
+        { "name": "scallions", "grams": 12.5 },
+        { "name": "cucumbers", "grams": 37.5 },
+        { "name": "pancakes or steamed buns", "grams": 50.0 }
+      ]
+    },
+    {
+      "dish": "pho",
+      "ingredients": [
+        { "name": "rice noodles", "grams": 100.0 },
+        { "name": "beef or chicken", "grams": 100.0 },
+        { "name": "beef or chicken broth", "grams": 375.0 },
+        { "name": "ginger", "grams": 10.0 },
+        { "name": "onions", "grams": 37.5 },
+        { "name": "star anise", "grams": 1.25 },
+        { "name": "cloves", "grams": 0.5 },
+        { "name": "cinnamon sticks", "grams": 1.25 },
+        { "name": "fish sauce", "grams": 11.25 },
+        { "name": "sugar", "grams": 5.0 },
+        { "name": "bean sprouts", "grams": 37.5 },
+        { "name": "basil", "grams": 5.0 },
+        { "name": "lime", "grams": 15.0 },
+        { "name": "jalapenos", "grams": 5.0 },
+        { "name": "cilantro", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "pizza",
+      "ingredients": [
+        { "name": "pizza dough", "grams": 100.0 },
+        { "name": "tomato sauce", "grams": 37.5 },
+        { "name": "mozzarella cheese", "grams": 50.0 },
+        { "name": "olive oil", "grams": 3.75 },
+        { "name": "basil", "grams": 1.25 },
+        { "name": "pepperoni", "grams": 20.0 }
+      ]
+    },
+    {
+      "dish": "pork_chop",
+      "ingredients": [
+        { "name": "pork chops", "grams": 200.0 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "olive oil", "grams": 7.5 },
+        { "name": "BUTTER", "grams": 7.5 },
+        { "name": "fresh herbs", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "poutine",
+      "ingredients": [
+        { "name": "french fries", "grams": 150.0 },
+        { "name": "cheese curds", "grams": 50.0 },
+        { "name": "gravy", "grams": 75.0 }
+      ]
+    },
+    {
+      "dish": "pulled_pork_sandwich",
+      "ingredients": [
+        { "name": "pork shoulder", "grams": 375.0 },
+        { "name": "barbecue sauce", "grams": 75.0 },
+        { "name": "burger buns", "grams": 80.0 },
+        { "name": "coleslaw", "grams": 100.0 },
+        { "name": "black pepper", "grams": 2.5 },
+        { "name": "garlic powder", "grams": 2.5 },
+        { "name": "onion powder", "grams": 2.5 },
+        { "name": "paprika", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "ramen",
+      "ingredients": [
+        { "name": "ramen noodles", "grams": 100.0 },
+        { "name": "chicken or pork broth", "grams": 300.0 },
+        { "name": "soy sauce", "grams": 15.0 },
+        { "name": "miso paste", "grams": 11.25 },
+        { "name": "pork belly or chicken", "grams": 100.0 },
+        { "name": "soft-boiled eggs", "grams": 50.0 },
+        { "name": "green onions", "grams": 7.5 },
+        { "name": "nori", "grams": 1.25 },
+        { "name": "bean sprouts", "grams": 25.0 },
+        { "name": "bamboo shoots", "grams": 25.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "ginger", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "ravioli",
+      "ingredients": [
+        { "name": "ravioli pasta", "grams": 125.0 },
+        { "name": "ricotta cheese", "grams": 62.5 },
+        { "name": "parmesan cheese", "grams": 25.0 },
+        { "name": "spinach", "grams": 50.0 },
+        { "name": "egg", "grams": 12.5 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "nutmeg", "grams": 0.25 },
+        { "name": "tomato sauce or BUTTER sauce", "grams": 75.0 }
+      ]
+    },
+    {
+      "dish": "red_velvet_cake",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 75.0 },
+        { "name": "cocoa powder", "grams": 5.0 },
+        { "name": "baking soda", "grams": 1.25 },
+        { "name": "BUTTERmilk", "grams": 60.0 },
+        { "name": "vegetable oil", "grams": 60.0 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "sugar", "grams": 75.0 },
+        { "name": "vanilla extract", "grams": 2.5 },
+        { "name": "white vinegar", "grams": 3.75 },
+        { "name": "red food coloring", "grams": 7.5 },
+        { "name": "cream cheese", "grams": 112.5 },
+        { "name": "BUTTER", "grams": 28.75 },
+        { "name": "powdered sugar", "grams": 62.5 }
+      ]
+    },
+    {
+      "dish": "risotto",
+      "ingredients": [
+        { "name": "arborio rice", "grams": 87.5 },
+        { "name": "chicken or vegetable broth", "grams": 300.0 },
+        { "name": "onion", "grams": 20.0 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "BUTTER", "grams": 15.0 },
+        { "name": "olive oil", "grams": 7.5 },
+        { "name": "parmesan cheese", "grams": 25.0 },
+        { "name": "white wine", "grams": 30.0 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "samosa",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "WATER", "grams": 25.0 },
+        { "name": "potatoes", "grams": 125.0 },
+        { "name": "peas", "grams": 25.0 },
+        { "name": "onions", "grams": 20.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "ginger", "grams": 3.75 },
+        { "name": "cumin", "grams": 1.25 },
+        { "name": "coriander", "grams": 1.25 },
+        { "name": "turmeric", "grams": 0.75 },
+        { "name": "chili powder", "grams": 0.75 },
+        { "name": "vegetable oil", "grams": 125.0 }
+      ]
+    },
+    {
+      "dish": "sashimi",
+      "ingredients": [
+        { "name": "fresh raw fish", "grams": 75.0 },
+        { "name": "tuna", "grams": 37.5 },
+        { "name": "salmon", "grams": 37.5 },
+        { "name": "wasabi", "grams": 2.5 },
+        { "name": "soy sauce", "grams": 15.0 },
+        { "name": "pickled ginger", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "scallops",
+      "ingredients": [
+        { "name": "scallops", "grams": 125.0 },
+        { "name": "BUTTER", "grams": 11.25 },
+        { "name": "olive oil", "grams": 3.75 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "lemon juice", "grams": 3.75 },
+        { "name": "black pepper", "grams": 0.75 },
+        { "name": "fresh herbs", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "seaweed_salad",
+      "ingredients": [
+        { "name": "seaweed (wakame)", "grams": 25.0 },
+        { "name": "rice vinegar", "grams": 11.25 },
+        { "name": "soy sauce", "grams": 7.5 },
+        { "name": "sesame oil", "grams": 3.75 },
+        { "name": "sugar", "grams": 3.75 },
+        { "name": "sesame seeds", "grams": 2.5 },
+        { "name": "red pepper flakes", "grams": 0.5 },
+        { "name": "green onions", "grams": 3.75 }
+      ]
+    },
+    {
+      "dish": "shrimp_and_grits",
+      "ingredients": [
+        { "name": "shrimp", "grams": 125.0 },
+        { "name": "grits", "grams": 50.0 },
+        { "name": "BUTTER", "grams": 15.0 },
+        { "name": "cheddar cheese", "grams": 37.5 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "onion", "grams": 20.0 },
+        { "name": "bacon", "grams": 25.0 },
+        { "name": "lemon juice", "grams": 3.75 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "cayenne pepper", "grams": 0.5 },
+        { "name": "green onions", "grams": 5.0 }
+      ]
+    },
+    {
+      "dish": "spaghetti_bolognese",
+      "ingredients": [
+        { "name": "spaghetti", "grams": 100.0 },
+        { "name": "ground beef", "grams": 125.0 },
+        { "name": "onion", "grams": 25.0 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "carrot", "grams": 20.0 },
+        { "name": "celery", "grams": 20.0 },
+        { "name": "tomato paste", "grams": 7.5 },
+        { "name": "canned tomatoes", "grams": 200.0 },
+        { "name": "olive oil", "grams": 7.5 },
+        { "name": "red wine", "grams": 30.0 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "basil", "grams": 1.25 },
+        { "name": "oregano", "grams": 1.25 },
+        { "name": "parmesan cheese", "grams": 15.0 }
+      ]
+    },
+    {
+      "dish": "spaghetti_carbonara",
+      "ingredients": [
+        { "name": "spaghetti", "grams": 100.0 },
+        { "name": "eggs", "grams": 37.5 },
+        { "name": "parmesan cheese", "grams": 12.5 },
+        { "name": "pecorino cheese", "grams": 12.5 },
+        { "name": "guanciale or pancetta", "grams": 37.5 },
+        { "name": "black pepper", "grams": 2.5 }
+      ]
+    },
+    {
+      "dish": "spring_rolls",
+      "ingredients": [
+        { "name": "spring roll wrappers", "grams": 50.0 },
+        { "name": "cabbage", "grams": 75.0 },
+        { "name": "carrots", "grams": 25.0 },
+        { "name": "bean sprouts", "grams": 25.0 },
+        { "name": "mushrooms", "grams": 25.0 },
+        { "name": "green onions", "grams": 7.5 },
+        { "name": "garlic", "grams": 3.75 },
+        { "name": "ginger", "grams": 3.75 },
+        { "name": "soy sauce", "grams": 7.5 },
+        { "name": "sesame oil", "grams": 3.75 },
+        { "name": "vegetable oil", "grams": 125.0 }
+      ]
+    },
+    {
+      "dish": "steak",
+      "ingredients": [
+        { "name": "beef steak", "grams": 200.0 },
+        { "name": "black pepper", "grams": 1.25 },
+        { "name": "olive oil", "grams": 3.75 },
+        { "name": "BUTTER", "grams": 7.5 },
+        { "name": "garlic", "grams": 2.5 },
+        { "name": "fresh herbs", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "strawberry_shortcake",
+      "ingredients": [
+        { "name": "strawberries", "grams": 125.0 },
+        { "name": "sugar", "grams": 37.5 },
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "baking powder", "grams": 2.5 },
+        { "name": "BUTTER", "grams": 28.75 },
+        { "name": "milk", "grams": 30.0 },
+        { "name": "heavy cream", "grams": 60.0 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    },
+    {
+      "dish": "sushi",
+      "ingredients": [
+        { "name": "sushi rice", "grams": 125.0 },
+        { "name": "nori sheets", "grams": 5.0 },
+        { "name": "raw fish", "grams": 75.0 },
+        { "name": "tuna", "grams": 37.5 },
+        { "name": "salmon", "grams": 37.5 },
+        { "name": "cucumber", "grams": 25.0 },
+        { "name": "avocado", "grams": 37.5 },
+        { "name": "soy sauce", "grams": 15.0 },
+        { "name": "wasabi", "grams": 3.75 },
+        { "name": "pickled ginger", "grams": 7.5 }
+      ]
+    },
+    {
+      "dish": "tacos",
+      "ingredients": [
+        { "name": "tortillas", "grams": 75.0 },
+        { "name": "ground beef or chicken", "grams": 125.0 },
+        { "name": "lettuce", "grams": 37.5 },
+        { "name": "tomato", "grams": 37.5 },
+        { "name": "onion", "grams": 20.0 },
+        { "name": "cheddar cheese", "grams": 25.0 },
+        { "name": "sour cream", "grams": 25.0 },
+        { "name": "salsa", "grams": 37.5 },
+        { "name": "cilantro", "grams": 3.75 },
+        { "name": "lime", "grams": 15.0 }
+      ]
+    },
+    {
+      "dish": "tiramisu",
+      "ingredients": [
+        { "name": "ladyfingers", "grams": 50.0 },
+        { "name": "espresso", "grams": 62.5 },
+        { "name": "mascarpone cheese", "grams": 125.0 },
+        { "name": "eggs", "grams": 50.0 },
+        { "name": "sugar", "grams": 25.0 },
+        { "name": "cocoa powder", "grams": 7.5 },
+        { "name": "coffee liqueur", "grams": 11.25 }
+      ]
+    },
+    {
+      "dish": "tuna_tartare",
+      "ingredients": [
+        { "name": "fresh tuna", "grams": 100.0 },
+        { "name": "soy sauce", "grams": 7.5 },
+        { "name": "sesame oil", "grams": 3.75 },
+        { "name": "lime juice", "grams": 7.5 },
+        { "name": "avocado", "grams": 37.5 },
+        { "name": "red onion", "grams": 10.0 },
+        { "name": "capers", "grams": 3.75 },
+        { "name": "chives", "grams": 2.5 },
+        { "name": "black pepper", "grams": 0.75 }
+      ]
+    },
+    {
+      "dish": "waffles",
+      "ingredients": [
+        { "name": "all-purpose flour", "grams": 62.5 },
+        { "name": "baking powder", "grams": 2.5 },
+        { "name": "sugar", "grams": 7.5 },
+        { "name": "eggs", "grams": 25.0 },
+        { "name": "milk", "grams": 87.5 },
+        { "name": "BUTTER", "grams": 28.75 },
+        { "name": "vanilla extract", "grams": 1.25 }
+      ]
+    }
+  ]
+}
